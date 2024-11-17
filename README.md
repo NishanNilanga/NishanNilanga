@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NishanNilanga
+- 👋 **Hi, I’m @NishanNilanga**
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me nilanganishan4444@gmail.com
 - ⚡ Fun fact: I think I'm silent person
